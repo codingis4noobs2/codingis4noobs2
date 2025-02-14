@@ -11,7 +11,9 @@
   
   
 
-- First Runner of Aelf x Google Cloud x StackUp Hackathon  
+- First Runner of Aelf x Google Cloud x StackUp, Orderly x Google Cloud Hackathon
+
+- Runner up of Aelf x StackUp Hackathon 
   
 
 - Fun fact: I love making memes 😹  
