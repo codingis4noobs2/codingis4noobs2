@@ -39,3 +39,4 @@ Currently focused on building and operating modern infrastructure using Kubernet
 * Taipy
 * NextCloudinary
 * Novu
+* & many more
