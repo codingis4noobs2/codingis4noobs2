@@ -16,6 +16,7 @@ Currently focused on building and operating modern infrastructure using Kubernet
 ## ⚙️ DevOps & Cloud Stack
 
 * Terraform
+* Terragrunt
 * Ansible
 * Docker
 * Kubernetes
