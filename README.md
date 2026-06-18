@@ -37,10 +37,4 @@ Currently focused on building and operating modern infrastructure using Kubernet
 * Python
 * C++
 
-## 🌱 OpenSource Contributor at:
-
-* PyCloudinary
-* Taipy
-* NextCloudinary
-* Novu
-* & many more
+### 🌱 OpenSource Contributor at: Novu, PyCloudinary, Taipy, NextCloudinary & many more
