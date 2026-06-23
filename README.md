@@ -27,8 +27,6 @@ Currently focused on building and operating modern infrastructure using Kubernet
 * AWS
 * Google Cloud Platform (GCP)
 * Prometheus & Grafana
-* Elastic Search & kibana
-* Jaeger
 * Helm
 
 ## 💻 Programming
