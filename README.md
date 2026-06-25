@@ -35,5 +35,6 @@ Currently focused on building and operating modern infrastructure using Kubernet
 * JavaScript
 * Python
 * C++
+* SQL
 
 ### 🌱 OpenSource Contributor at: Novu, PyCloudinary, Taipy, NextCloudinary & many more
